@@ -496,7 +496,8 @@ pre code, pre tt {
 .match-author {
   width: 100px;
   float: left;
-  margin-right: 80px;
+  margin-left: 20px;
+  margin-right: 60px;
 }
 
 .match-author p {
